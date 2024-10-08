@@ -1,0 +1,1 @@
+Copy the video samples in the sample folder to "input_videos" in each folder you want to test, then run main.py
